@@ -1,12 +1,6 @@
-caption{
-    caption-side: bottom;
-
-
-}
-
-table,th,td{
-    border: 2px solid #e814d6;
-}
-th{
-    border-color: red;
-}
+input {
+    
+    padding: 5px 10px;
+        
+    width: -webkit-fill-available;
+    }
