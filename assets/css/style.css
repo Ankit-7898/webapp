@@ -1,6 +1,6 @@
 .form1 {
     border: 3px dashed black;
-    background: linear-gradient(#43c9fe, #d3a4d8);
+    background: linear-gradient(#43c9fe , #d3a4d8 70%);
     min-width: fit-content;
     font-size: 10px;
     color: aliceblue;
@@ -10,3 +10,4 @@
  
 
 }
+
